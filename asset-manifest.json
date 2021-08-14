@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-todo/static/css/main.8b177082.chunk.css",
+    "main.js": "/react-todo/static/js/main.f039d2ef.chunk.js",
+    "main.js.map": "/react-todo/static/js/main.f039d2ef.chunk.js.map",
+    "runtime-main.js": "/react-todo/static/js/runtime-main.9da2665e.js",
+    "runtime-main.js.map": "/react-todo/static/js/runtime-main.9da2665e.js.map",
+    "static/js/2.27c1c4ed.chunk.js": "/react-todo/static/js/2.27c1c4ed.chunk.js",
+    "static/js/2.27c1c4ed.chunk.js.map": "/react-todo/static/js/2.27c1c4ed.chunk.js.map",
+    "index.html": "/react-todo/index.html",
+    "static/css/main.8b177082.chunk.css.map": "/react-todo/static/css/main.8b177082.chunk.css.map",
+    "static/js/2.27c1c4ed.chunk.js.LICENSE.txt": "/react-todo/static/js/2.27c1c4ed.chunk.js.LICENSE.txt",
+    "static/media/global.scss": "/react-todo/static/media/Georama-Light.2448f409.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9da2665e.js",
+    "static/js/2.27c1c4ed.chunk.js",
+    "static/css/main.8b177082.chunk.css",
+    "static/js/main.f039d2ef.chunk.js"
+  ]
+}
